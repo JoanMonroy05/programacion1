@@ -35,3 +35,16 @@ double area = 3.14159 * radio * radio;
 
 - **Ejercicio 14:** Escribe un programa que pida al usuario que ingrese 5 números y los almacene en un array. Luego, el programa debe calcular e imprimir el promedio de esos números.
 
+- **Ejercicio 15:** Escribe un programa que muestre por consola los números del 1 al 100 (ambos incluidos) con un salto de línea entre cada número, pero sustituyendo los siguientes:
+
+    - Los múltiplos de 3 por la palabra "fizz".
+    - Los múltiplos de 5 por la palabra "buzz".
+    - Los múltiplos de 3 y de 5 por la palabra "fizzbuzz".
+
+- **Ejercicio 16:** Escribe una función que reciba dos palabras (String) y retorne `true` o `false` según si son anagramas o no. Un anagrama es una palabra que se forma reordenando todas las letras de otra palabra.
+
+    - Dos palabras exactamente iguales no se consideran anagramas.
+
+- **Ejercicio 17:** Escribe un programa que imprima los 50 primeros números de la sucesión de Fibonacci, comenzando en 0. La sucesión de Fibonacci se genera sumando los dos números anteriores para obtener el siguiente.
+
+- **Ejercicio 18:** Escribe un programa que reciba un número y determine si es primo. Luego, imprime todos los números primos entre 1 y 100.
