@@ -1,4 +1,4 @@
-public class ejercicio5 {
+public class ejercicio05 {
     public static void main(String[] args) {
         int saldoInicial = 1000; //saldo inicial en la cuenta
         final int RETIRO_SEMANAL = 200; //retiro fijo semanal

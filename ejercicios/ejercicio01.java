@@ -1,4 +1,4 @@
-public class ejercicio1 {
+public class ejercicio01 {
     public static void main(String[] args) {
         short edad = 17;
         float estatura = 1.72f;

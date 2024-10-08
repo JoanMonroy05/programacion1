@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ejercicio3 {
+public class ejercicio03 {
     public static void main(String[] args) {
         Scanner leerPorConsola = new Scanner(System.in);
         System.out.print("Ingrese el primer número: ");

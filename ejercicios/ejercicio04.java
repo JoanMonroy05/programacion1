@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ejercicio4 {
+public class ejercicio04 {
     public static void main (String[] args){
         //Precios de las prendas
         double precioCamisa = 25.0;
